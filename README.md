@@ -7,6 +7,7 @@ My idea is to share a list of important concepts to validate knowledge about Obj
 Feel free to review the complete list, and let me know if you consider it important to add any other topic or concept.
 
 ## JavaScript Foundations
+
 - JavaScript Engine
 - JavaScript Runtime
 - Interpreter
@@ -21,7 +22,7 @@ Feel free to review the complete list, and let me know if you consider it import
 - Lexical Environment | Global Environment
 - Arity
 - Hoisting
-  - const 
+  - const
   - let
   - var
 - Function Invocation
@@ -47,6 +48,7 @@ Feel free to review the complete list, and let me know if you consider it import
 - Side effects
 
 ## Types in JavaScript
+
 - Static and dynamically Typed
 - Primitives Types
 - Pass by reference | Pass by value
@@ -64,6 +66,7 @@ Feel free to review the complete list, and let me know if you consider it import
 - Prototypal inheritance
 
 ## Object-Oriented Programming vs Functional Programming
+
 - OOP - Imperative
 - FP - Declarative
 - Composition vs Inheritance
@@ -72,6 +75,7 @@ Feel free to review the complete list, and let me know if you consider it import
 ## Object-Oriented Programming | OOP
 
 ### Important concepts
+
 - This
 - New
 - In
@@ -81,16 +85,18 @@ Feel free to review the complete list, and let me know if you consider it import
 - Private | Public | Protected
 
 ### 4 principles of OOP
+
 - Encapsulation
 - Abstraction
 - Polymorphism
 - Inheritance
 
-
 ## Functional Programming | FP
+
 Functional programming (often abbreviated FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 
 ### Important concepts
+
 - Inmutability
 - Idempotence
 - Declarative vs Imperative
@@ -107,6 +113,7 @@ Functional programming (often abbreviated FP) is the process of building softwar
 - Recursion
 
 ## Asynchronous JavaScript
+
 - Web API
 - Callbacks
   - Async Callback
@@ -121,13 +128,14 @@ Functional programming (often abbreviated FP) is the process of building softwar
 - Async/Await
 - catch
 - finally
-- for await of 
+- for await of
 - Job Queue | Promises
 - Task Queue | Callback Queue
 - Event Loop
 - Threads, Concurrency and Parallelism
 
 ## Error Handling
+
 - Error
   - Message
   - Name
@@ -141,6 +149,7 @@ Functional programming (often abbreviated FP) is the process of building softwar
 - Custom Errors
 
 ## Modules in JavaScript
+
 - Pros | Cons
 - IIFE
 - Native ES Modules
@@ -149,11 +158,13 @@ Functional programming (often abbreviated FP) is the process of building softwar
 - AMD | Asunchronous Module Definition
 
 ## Template Literals
+
 - Multi-line strings
 - Avoid scaping characters
 - Variable insertion
 
 ## ES6 (2015)
+
 - let | const
 - Arrow functions
 - Classes
@@ -166,22 +177,26 @@ Functional programming (often abbreviated FP) is the process of building softwar
 - Block-Scoped Functions
 
 ## ES7 (2016)
-- Base ** exponent
+
+- Base \*\* exponent
 - Array.includes
 
 ## ES8 (ES2017)
+
 - Object.entries/Object.values
 - String padding | padStart/padEnd
 - Trailing comma
 - Atomics and shared memory
 
 ## ES9 (ES2018)
+
 - Lifting template literal restriction
 - Asynchronous iterators
 - Promise.finally
 - Object destructuring
 
 ## ES10 (ES2019)
+
 - Array.flat
 - Array.flatMap | map().flat()
 - Object.fromEntries | reverse from Object.entries
@@ -194,6 +209,6 @@ Functional programming (often abbreviated FP) is the process of building softwar
 - Array.sort now retains order if keys are equal
 - Make JavaScript a superset of JSON
 
-...continue
+continue...
 
 #let's keep learning together
